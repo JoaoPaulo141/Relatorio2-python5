@@ -33,3 +33,9 @@ print(fav_dict[fav_thing])
 
 for key, value in fav_dict.items():
     print(key, value)
+
+mySet = set('ATGTGGG')
+mySet2 = {'ATGCCT'}
+
+print(mySet)
+print(mySet2)

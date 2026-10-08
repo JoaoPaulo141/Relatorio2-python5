@@ -15,3 +15,6 @@ fav_dict['organism'] = 'Escherichia coli'
 
 fav_thing = 'organism'
 print(fav_dict[fav_thing])
+
+fav_thing = input("What is your favorite thing? ")
+print(fav_dict[fav_thing])
